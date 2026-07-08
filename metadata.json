@@ -1,0 +1,6 @@
+{
+  "name": "EQUIBUDGET",
+  "description": "Una plataforma minimalista inspirada en la estética Takenos para gestionar presupuestos, fondos de trabajo y viáticos con una interfaz limpia en verde pastel y blanco.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
